@@ -35,6 +35,7 @@ int main(){
 }
 
 
+
 // Perimeter of square = 4 * Side
 // Perimeter of rectangle = 2 * (Length + Breadth)
 // Perimeter of Circle = 2*(22/7)*r
